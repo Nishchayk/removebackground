@@ -1,0 +1,41 @@
+
+
+
+{
+   "ap1" : {
+    "ap_current_opmode": "DUAL_BAND", 
+    "ap_eth_mac": "00:4e:35:c6:e0:14",
+    "ap_green_state_updtime":"na" ,
+    "ap_in_green_state": "false",
+    "ap_model": "AP-535",
+    "ap_name": "APB_05_535",
+    "ap_serial": "CNJ0K9Y2BD",
+    "ap_timestamp": 1694102216,
+    "ap_timezone": "UTC-8PDT,M3.2.0/02:00,M11.1.0/02:00",
+    "ap_uptime": 612911,
+    "ip_addr": "10.32.7.139",
+    "ip_addr6": "::",
+    "is_ap_down": false, 
+    "site_id": "",
+    "update_timestamp": 1692736202, 
+    "status":"true" 
+},
+"ap2":{
+        "ap_current_opmode": "DUAL_BAND", 
+        "ap_eth_mac": "00:4e:35:c6:e0:14",
+        "ap_green_state_updtime":"na" ,
+        "ap_in_green_state": "false",
+        "ap_model": "AP-536",
+        "ap_name": "APB_05_535",
+        "ap_serial": "CNJ0K9Y2BD",
+        "ap_timestamp": 1694102216,
+        "ap_timezone": "UTC-8PDT,M3.2.0/02:00,M11.1.0/02:00",
+        "ap_uptime": 612911,
+        "ip_addr": "10.32.7.139",
+        "ip_addr6": "::",
+        "is_ap_down": true, 
+        "site_id": "",
+        "update_timestamp": 1692736202, 
+        "status":"false" 
+        }
+}
